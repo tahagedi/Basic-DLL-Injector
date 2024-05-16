@@ -17,7 +17,7 @@ Inject DLL into a process.
 Display current processes.
 Follow the on-screen instructions to complete the selected action.
 Installation
-Clone the repository:git clone https://github.com/yourusername/dll-injector.git
+Clone the repository:git clone https://github.com/tahagedi/Basic-DLL-Injector.git
 Credits
 This project was created by TahaGedi.
 
